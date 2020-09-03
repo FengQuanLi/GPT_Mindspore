@@ -12,12 +12,14 @@
 文本生成《西游记》
 
 ![西游记](image/7DC52A21FAFFF8093729E0E0D40E3DE5.jpg)
+![西游记](https://scienhere.com/image/7DC52A21FAFFF8093729E0E0D40E3DE5.jpg)
 ---
 
 
 文本生成《红楼梦》
 
 ![红楼梦](image/98A3DC28322429BBE766B70D26CCB375.jpg)
+![红楼梦](https://scienhere.com/iimage/98A3DC28322429BBE766B70D26CCB375.jpg)
 ---
 文本生成《二十四史——陈书》 
 
