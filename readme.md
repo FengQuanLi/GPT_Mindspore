@@ -19,12 +19,16 @@
 文本生成《红楼梦》
 
 ![红楼梦](image/98A3DC28322429BBE766B70D26CCB375.jpg)
-![红楼梦](https://scienhere.com/iimage/98A3DC28322429BBE766B70D26CCB375.jpg)
+![红楼梦](https://scienhere.com/image/98A3DC28322429BBE766B70D26CCB375.jpg)
 ---
 文本生成《二十四史——陈书》 
 
 ![陈书1](image/4C077E3221DCC324718E1EE2C7BC1A00.jpg)
+![陈书1](https://scienhere.com/image/4C077E3221DCC324718E1EE2C7BC1A00.jpg)
+
+
 ![陈书2](image/04E09FF3345D1E188923369CE589C67F.jpg)
+![陈书2](https://scienhere.com/image/04E09FF3345D1E188923369CE589C67F.jpg)
 
 
 😏感觉这个文言文水平比我好多了，
